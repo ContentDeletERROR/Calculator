@@ -1,2 +1,2 @@
-# Calculator
-I am planning on creating a calculator like WoframAlpha
+# Manual on how to use my Calculator
+To be done
